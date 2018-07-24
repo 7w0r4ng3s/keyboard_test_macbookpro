@@ -5,7 +5,7 @@ The code is written in Python 3.
 The program `kb_test.py` asks users for the input of 26 letters and 10 numbers (punctuation feature will be added later). It only supports detecting the problem which letters and characters do not appear.
 The future version will also support repeating typing problem.
 
-The current version is unfinished.
+Seriously, this program is not serious :)
 
 To run the test,
 ```
