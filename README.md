@@ -7,5 +7,7 @@ The future version will also support repeating typing problem.
 
 The current version is unfinished.
 
-To run the code,
- ``` $ python3 kb_test.py ```
+To run the test,
+```
+$ python3 kb_test.py
+```
